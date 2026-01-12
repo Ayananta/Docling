@@ -1,0 +1,2 @@
+This document contains the notes I make while working on the Docling project.
+It is meant for future reference. 
